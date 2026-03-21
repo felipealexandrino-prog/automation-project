@@ -1,3 +1,0 @@
-Produto mais caro : notebook | Valor: 3500.0
-Produto mais barato : mouse | Valor: 80.0
-Média de valores: 940.0
