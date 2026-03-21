@@ -1,7 +1,0 @@
-notebook,3500
-mouse,80
-teclado,150
-monitor,1200
-cadeira,900
-webcam,300
-headset,450
