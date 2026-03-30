@@ -1,0 +1,11 @@
+produto,categoria,preco,quantidade,cidade,data
+mouse,periferico,50,2,SP,2026-01-10
+teclado,periferico,150,1,RJ,2026-01-11
+monitor,tela,900,1,SP,2026-01-12
+mouse,periferico,50,3,MG,2026-01-13
+monitor,tela,850,2,SP,2026-01-14
+teclado,periferico,150,2,RJ,2026-01-15
+mouse,periferico,50,1,MG,2026-01-16
+headset,periferico,200,1,SP,2026-01-17
+cadeira,movel,1200,1,BA,2026-01-18
+mesa,movel,700,2,BA,2026-01-19
